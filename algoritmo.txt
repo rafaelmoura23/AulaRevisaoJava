@@ -1,0 +1,11 @@
+Exemplo 1 - calcular a nota(2 notas) e a frequencia(total aulas e faltas) de um aluno
+  1. ler a primeira nota (Scanner e Syso)
+  2. ler a segunda nota
+  3. calcular a media do aluno
+  4. mostrar a média do aluno
+  5. ler o total de aulas da disciplina
+  6. ler o total de faltas do aluno
+  7. calcular a porcentagem de frequência
+  8. mostra a frequencia
+  9. se media>=50 e frequencia>=75 então mostre aluno Aprovado
+  10. senão entao, mostre aluno reprovado
